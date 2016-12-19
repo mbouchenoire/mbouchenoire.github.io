@@ -21,7 +21,8 @@
   "projects":{
     "my_projects": "My Projects",
     "githubdater": "Application updater using GitHub as a server.",
-    "critisteam": "Java library to retrieve Steam reviews data."
+    "critisteam": "Java library to retrieve Steam reviews data.",
+    "twitch-kraken": "Node.js client for Twitch.tv API"
   },
   "career":{
     "my_career": "My Career",

@@ -9,3 +9,9 @@
   url: '/mbouchenoire/critisteam'
   img: 'static/img/landing/steam.png'
   desc: "Java library to retrieve Steam reviews data."
+
+- name: 'Twitch-Kraken'
+  i18n: 'twitch-Kraken'
+  url: '/mbouchenoire/twitch-kraken'
+  img: 'static/img/landing/twitch.png'
+  desc: 'Node.js client for Twitch.tv API.'
