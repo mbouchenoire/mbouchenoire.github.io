@@ -20,6 +20,7 @@
   },
   "projects":{
     "my_projects": "My Projects",
+    "jsync": "Simple async utilities for Java 5+",
     "githubdater": "Application updater using GitHub as a server.",
     "critisteam": "Java library to retrieve Steam reviews data.",
     "twitch-kraken": "Node.js client for Twitch.tv API"

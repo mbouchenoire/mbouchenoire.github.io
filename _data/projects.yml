@@ -1,3 +1,9 @@
+- name: 'Jsync'
+  i18n: 'jsync'
+  url: '/mbouchenoire/jsync'
+  img: 'static/img/landing/jsync.png'
+  desc: 'Simple async utilities for Java 5+.'
+
 - name: 'GitHubdater'
   i18n: 'githubdater'
   url: '/githubdater/githubdater'
