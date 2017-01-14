@@ -13,5 +13,5 @@
 - name: 'Twitch-Kraken'
   i18n: 'twitch-Kraken'
   url: '/mbouchenoire/twitch-kraken'
-  img: 'static/img/landing/twitch.png'
+  img: 'static/img/landing/twitch-kraken.png'
   desc: 'Node.js client for Twitch.tv API.'
